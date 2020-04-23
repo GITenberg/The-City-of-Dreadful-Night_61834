@@ -1,10 +1,13 @@
 _repo: The-City-of-Dreadful-Night_61834
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Farrand, Charles D.
     gutenberg_agent_id: '51641'
     url: http://www.gutenberg.org/2009/agents/51641
+covers:
+- cover_type: archival
+  image_path: 61834-h/images/cover.jpg
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61834#The-City-of-Dreadful-Night
 gutenberg_issued: '2020-04-14'
 gutenberg_type: Text
 identifiers:
